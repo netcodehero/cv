@@ -42,10 +42,7 @@ p {
 div.top-container {
 	position: relative;
 	padding-top: 100px;
-	background-image: url('/images/mountain.png');
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
+	background-color: rgb(238, 247, 247);
 	height: 100vh;
 }
 
